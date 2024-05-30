@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/WebStorm-4ca6ff?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img src="https://img.shields.io/badge/figma-8638e5?style=for-the-badge&logo=figma&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
