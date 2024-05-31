@@ -38,6 +38,6 @@
 <br/>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eeyerin&layout=compact&theme=graywhite" width="320px" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1eeyerin&show_icons=true&theme=graywhite" width="425px" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eeyerin&layout=compact&theme=graywhite" width="350px" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1eeyerin&show_icons=true&theme=graywhite" width="395px" height="190px" />
 </div>
