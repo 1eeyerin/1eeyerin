@@ -39,6 +39,6 @@
 <br/>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eeyerin&layout=compact&theme=graywhite" height="180px" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eeyerin&layout=compact&theme=graywhite" height="180px" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=1eeyerin&show_icons=true&theme=graywhite" height="180px" />
 </div>
